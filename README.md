@@ -1,5 +1,5 @@
 # italian_museum_scraper
-A simple non-threaded category-based museum scraper for italian museums at [MuseiOnline](www.museionline.info/musei/).
+A simple non-threaded category-based museum scraper for italian museums at [MuseiOnline](https://www.museionline.info/musei/).
 This scraper allow to collect contact information from each museum.
 
 ## How-to
